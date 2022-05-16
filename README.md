@@ -10,14 +10,14 @@
 #### install PyCrypto library
 
 ```
-  pip install pycryptodome
+pip install pycryptodome
 ```
 
 
 #### install pycryptodomex library
 
 ```
-  pip install pycryptodomex
+pip install pycryptodomex
 ```
 
 
